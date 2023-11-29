@@ -1,0 +1,35 @@
+/* Navbar.css */
+
+nav {
+    background-color: #2980b9; /* Change the background color as needed */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between; /* Align items to the right */
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-left: 20px; /* Adjust margin to create space between items */
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ecf0f1; /* Change the text color as needed */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+
+  }
+  
+  a:hover {
+    color: #1abc9c; /* Change the hover color as needed */
+    cursor: pointer;
+  }
+  
