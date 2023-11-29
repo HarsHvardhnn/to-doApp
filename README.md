@@ -46,9 +46,4 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Push your changes to your fork.
 Submit a pull request to the original repository.
-License
-This project is licensed under the MIT License.
 
-Acknowledgments
-[List any resources, tutorials, or inspiration you used in this project]
-Feel free to add more sections or details depending on the complexity and scope of your project. This README is a starting point, and it's always a good idea to provide clear and comprehensive documentation for your users and potential contributors.
